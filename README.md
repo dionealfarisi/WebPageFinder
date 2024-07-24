@@ -1,4 +1,5 @@
 # Website Page Finder
+![OIG2](https://github.com/user-attachments/assets/f2d5e725-14b8-4d6e-861f-701d4ba58348)
 
 Website Page Finder is a Python-based tool used to search for various types of pages on a website, such as admin pages, upload pages, configuration pages, documentation pages, login pages, registration pages, and password reset pages. Additionally, this tool can also find the website structure by detecting links within pages.
 
